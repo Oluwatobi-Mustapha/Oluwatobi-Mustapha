@@ -44,14 +44,6 @@ I share my journey publicly, with one goal: **to get better through consistent, 
 - **Crypto Mining Simulation on EC2** – Detect unauthorized compute usage and triage with AWS tools  
 - **Metadata Harvesting Detection** – Simulate access to EC2 metadata and alert with GuardDuty  
 
-### Upcoming
-- **API Key Leak Detection & Rotation** – Monitor for exposed credentials and rotate automatically  
-- **IAM Wildcard Policy Detection** – Flag overly permissive IAM roles and log for review  
-- **Suspicious MFA Activity** – Alert on MFA disable, geo-anomalies, or session abuse  
-- **Public S3 Bucket Detection** – Monitor for unsafe permissions and notify SOC  
-- **SOC Cleanup Workflows** – Auto-detect and remove unused access keys, open security groups, etc.  
-
----
 
 ## Tools & Platforms
 
@@ -74,23 +66,15 @@ I share my journey publicly, with one goal: **to get better through consistent, 
   <img src="https://img.shields.io/badge/TheHive_CM-FFCC00?style=for-the-badge&logo=apachehive&logoColor=black" />
   <img src="https://img.shields.io/badge/Velociraptor_EDR-4B275F?style=for-the-badge&logo=Velociraptor&logoColor=white" /> </div>
  
-### 🛰 Network + SIEM
-
-<div>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=Suricata&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zeek-777BB4?style=for-the-badge&logo=Zeek&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
 ---
 
 ## Certifications
 
 <div>
   <img src="https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Solution-Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_Security_Specialty-(In_Progress)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  
 </div>
 
 ---
