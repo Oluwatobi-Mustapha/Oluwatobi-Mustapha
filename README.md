@@ -8,7 +8,7 @@ I simulate real-world threats in the cloud, build detection pipelines with AWS-n
 
 ##  Connect with Me
 
-[![X (Twitter)](https://img.shields.io/badge/X-@tobi_mustapha1-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tobi_mustapha1)
+[![X (Twitter)](https://img.shields.io/badge/X-@oluwatobi_msp-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/oluwatobi_msp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oluwatobi--Mustapha-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatobi-mustapha-2b2058335)
 
 ---
@@ -95,13 +95,6 @@ I share my journey publicly, with one goal: **to get better through consistent, 
 
 ---
 
-## Weekly Series: #CloudSOCFridays
-
-Every Friday, I share projects, lessons, and workflows from my AWS Cloud SOC lab — including detection strategies, automation steps, real alerts, and everything I’m learning.
-
-Follow the hashtag on [**𝕏**](https://twitter.com/techboy150)  
-
----
 
 ## Open to Work
 
