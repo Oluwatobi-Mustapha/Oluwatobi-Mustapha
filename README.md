@@ -9,9 +9,9 @@ My focus is to **detect, respond, and adapt** plus building future-proof defense
 
 ## 🌐 Connect with Me  
 
-[![X (Twitter)](https://img.shields.io/badge/X-@oluwatobi_msp-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tobi_mustapha1)  
+[![X (Twitter)](https://img.shields.io/badge/X-@oluwatobi_msp-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/oluwatobimustapha_msp)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oluwatobi--Mustapha-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatobi-mustapha-2b2058335)  
-[![Medium](https://img.shields.io/badge/Medium-@techboy150-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Oluwatobi-Mustapha)  
+[![Medium](https://img.shields.io/badge/Medium-@oluwatobi-mustapha-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Oluwatobi-Mustapha)  
 
 ---
 
