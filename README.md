@@ -38,50 +38,48 @@ I’m an **Electrical Engineering graduate** building deep expertise in **cloud 
 
 ## 🛠️ Tools & Technologies
 
-### ☁️ AWS Services  
-[![AWS](https://img.shields.io/badge/AWS-Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)  
-[![S3](https://img.shields.io/badge/Amazon S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/)  
-[![CloudTrail](https://img.shields.io/badge/AWS CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/cloudtrail/)  
-[![GuardDuty](https://img.shields.io/badge/AWS GuardDuty-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/guardduty/)  
-[![IAM](https://img.shields.io/badge/AWS IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/iam/)  
-[![Lambda](https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)](https://aws.amazon.com/lambda/)  
-[![EventBridge](https://img.shields.io/badge/AWS EventBridge-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/eventbridge/)  
-[![CloudWatch](https://img.shields.io/badge/AWS CloudWatch-FF4F00?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)](https://aws.amazon.com/cloudwatch/)  
-[![AWS Config](https://img.shields.io/badge/AWS Config-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/config/)  
-[![EC2](https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)](https://aws.amazon.com/ec2/)  
-[![VPC](https://img.shields.io/badge/AWS VPC-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/vpc/)  
-[![Amazon Detective](https://img.shields.io/badge/Amazon Detective-006a4e?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/detective/)  
-[![AWS Security Hub](https://img.shields.io/badge/AWS Security Hub-00A3E0?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/security-hub/)  
-[![AWS Macie](https://img.shields.io/badge/AWS Macie-00758F?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/macie/)  
-[![AWS KMS](https://img.shields.io/badge/AWS KMS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/kms/)  
-[![CloudFormation](https://img.shields.io/badge/AWS CloudFormation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/cloudformation/)
+### ☁️ AWS Services
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GuardDuty](https://img.shields.io/badge/GuardDuty-FF4F00?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF4F00?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F00?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-569A31?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Detective](https://img.shields.io/badge/Detective-006a4e?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Security Hub](https://img.shields.io/badge/Security%20Hub-00A3E0?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Macie](https://img.shields.io/badge/Macie-00758F?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![KMS](https://img.shields.io/badge/KMS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ---
 
-### 🧠 Detection & Response  
-[![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com)  
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)  
-[![Suricata](https://img.shields.io/badge/Suricata-E34F26?style=for-the-badge&logo=suricata&logoColor=white)](https://suricata-ids.org)
+### 🧠 Detection & Response
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-E34F26?style=for-the-badge&logo=suricata&logoColor=white)
 
 ---
 
-### 🧩 Networking & Analysis  
-[![Nmap](https://img.shields.io/badge/Nmap-00599C?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://nmap.org)  
-[![Netcat](https://img.shields.io/badge/Netcat-333333?style=for-the-badge&logo=gnu&logoColor=white)](https://nc110.sourceforge.io)
+### 🧩 Networking & Analysis
+![Nmap](https://img.shields.io/badge/Nmap-00599C?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-333333?style=for-the-badge&logo=gnu&logoColor=white)
 
 ---
 
-### 🧰 Supporting Tools  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
-[![Boto3](https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/sdk-for-python/)  
-[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io)  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)  
-[![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org)  
-[![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org)  
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)  
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-
+### 🧰 Supporting Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Boto3](https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 🎓 Certifications 
 
