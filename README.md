@@ -1,89 +1,82 @@
-# Hi, I'm Oluwatobi Mustapha
+# Hi, I'm Oluwatobi Mustapha  
 
-**Cloud Detection Engineer (AWS) | Threat Detection & Incident Response | IAM & Serverless Monitoring**
+**AWS Cloud Threat and Incident Response Engineer**  
 
-I simulate real-world threats in the cloud, build detection pipelines with AWS-native tools, and automate incident response workflows. I focus on solving real problems, improving response speed, and documenting everything I learn.
-
----
-
-##  Connect with Me
-
-[![X (Twitter)](https://img.shields.io/badge/X-@oluwatobi_msp-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/oluwatobi_msp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oluwatobi--Mustapha-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatobi-mustapha-2b2058335)
+I design intelligent, automated security systems in **AWS**
+My focus is to **detect, respond, and adapt** plus building future-proof defense systems through continuous learning, automation, and applied research.  
 
 ---
 
-## About Me
+## 🌐 Connect with Me  
 
-I'm an Electrical engineering graduate building a focused career in cloud security.
-
-My current work revolves around **AWS-based threat detection and SOC automation**. I study the way attackers move in the cloud, simulate those behaviors in my lab, and build real-time detection and response systems using services like **GuardDuty**, **CloudTrail**, **EventBridge**, and **Lambda**,
-
-I share my journey publicly, with one goal: **to get better through consistent, hands-on practice**.
+[![X (Twitter)](https://img.shields.io/badge/X-@oluwatobi_msp-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tobi_mustapha1)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oluwatobi--Mustapha-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatobi-mustapha-2b2058335)  
+[![Medium](https://img.shields.io/badge/Medium-@techboy150-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Oluwatobi-Mustapha)  
 
 ---
 
-##  Skills & Projects
+## 👨‍💻 About Me  
 
-| Skill Area                                 | Projects                                                                                   |
-|--------------------------------------------|--------------------------------------------------------------------------------------------|
-| AWS Threat Detection & Response            | Root Usage Detection, GuardDuty Labs, API Key Leak Simulation, IAM Wildcard Detection      |
-| CloudTrail Investigation                   | Suspicious MFA tracking, S3 exposure alerts, Geo-based IP triage                           |
-| Security Automation                        | Auto-tagging risky events, auto-remediation via Lambda + EventBridge                      |
-| Case Management + SOAR                     | Shuffle workflows, TheHive integration, alert triage docs                                 |
-| Endpoint and Network Monitoring            | Detection Lab with Windows/Linux, malware analysis, PCAP investigation                    |
+I’m an **Electrical Engineering graduate** building deep expertise in **cloud security engineering**.  
+
+
+> “Every lab, every failure, every automation script are all part of the mastery process.”  
 
 ---
 
-## Projects
+## 🧠 Highlight Projects
 
-- **IAM Access/Secret Keys Exposure on Github** - Testing how fast the new AWSCompromisedKeyQuarantineV3 policy responds to the breach.
-- **Root Account Usage Detection** – Detect and respond to AWS root access in real-time  
-- **GuardDuty Alert Enrichment** – Investigate and document findings triggered by common cloud attacks  
-- **Crypto Mining Simulation on EC2** – Detect unauthorized compute usage and triage with AWS tools  
-- **Metadata Harvesting Detection** – Simulate access to EC2 metadata and alert with GuardDuty  
+- **AWS Cloud Incident Response Lab** – Simulated a full-scale cloud attack lifecycle (Exfiltration, Privilege Escalation, CloudTrail Investigation, Anti-Forensics). Documented every phase and automated evidence collection.  
+- **AWS Cloud SOC Monitoring: Attack Detection & Response** – Built detection rules using CloudTrail, GuardDuty, and EventBridge to alert and respond to malicious IAM and S3 activity.  
+- **AWS IAM Key Abuse Detection** – Simulated compromised IAM keys and tested AWSCompromisedKeyQuarantineV3 policy response and detection speed.  
+- **Honeypot Deployment on AWS** – Deployed a monitored honeypot using EC2, VPC flow logs, and GuardDuty to observe attacker behavior and collect intelligence.  
+- **Network Traffic Analysis with Wireshark** – Captured, inspected, and triaged live network traffic to identify patterns of reconnaissance and command-and-control activity.  
+- **Threat Detection with Wireshark** – Detected anomalies in packet captures and correlated them with attacker behaviors seen in AWS GuardDuty findings.  
+- **Endpoint Detection & Response (EDR) Simulation** – Deployed Windows and Linux systems, simulated malware infections, and analyzed response workflows.  
+- **Incident Response (On-Prem)** – Practiced structured evidence collection, triage, and containment across hybrid environments.  
 
 
-## Tools & Platforms
+## 🛠️ Tools & Technologies 
 
-### AWS Cloud (Primary Focus)
+### ☁️ AWS Services
+- **Amazon S3** – Data storage and exfiltration simulation  
+- **AWS CloudTrail** – Event logging, investigation, and attack tracing  
+- **Amazon GuardDuty** – Threat detection and anomaly analysis  
+- **AWS IAM** – Key abuse detection, policy management, and privilege monitoring  
+- **AWS Lambda** – Serverless automation for detection and response workflows  
+- **Amazon EventBridge** – Event-driven automation and alert orchestration  
+- **Amazon CloudWatch** – Monitoring, log analysis, and metric-based alerting  
+- **AWS Config** – Continuous compliance and resource change tracking  
+- **VPC Flow Logs** – Network visibility and threat hunting data source  
+- **EC2 Instances** – Attacker/defender environments and honeypot deployment  
+
+### 🧠 Detection & Response Tools
+- **Splunk** – Endpoint detection and telemetry collection  
+- **Wireshark** – Network packet capture, traffic analysis, and malware tracing  
+
+### 🧩 Networking & Analysis
+- **Nmap** – Reconnaissance and port scanning simulation  
+- **Netcat** – Data exfiltration and C2 channel emulation 
+
+### 🧰 Supporting Tools
+- **Python (Boto3)** – Scripted investigations and AWS automation  
+- **JSON / YAML** – Event log parsing and IaC configurations  
+- **Git & GitHub** – Version control and project documentation  
+---
+
+## 🎓 Certifications 
 
 <div>
-  <img src="https://img.shields.io/badge/AWS_CloudTrail-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_GuardDuty-F90?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Detective-194D33?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/EventBridge-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</div>
-
-### Detection & Response
-
-<div>
-  <img src="https://img.shields.io/badge/Shuffle_SOAR-303030?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TheHive_CM-FFCC00?style=for-the-badge&logo=apachehive&logoColor=black" />
-  <img src="https://img.shields.io/badge/Velociraptor_EDR-4B275F?style=for-the-badge&logo=Velociraptor&logoColor=white" /> </div>
- 
----
-
-## Certifications
-
-<div>
-  <img src="https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Solution-Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Security_Specialty-(In_Progress)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white"/>
 </div>
 
 ---
 
+## 💼 Open to Work  
 
-## Open to Work
+I’m open to **Cloud Security Engineering*** roles — full-time, contract, or apprenticeship.  
 
-I'm actively looking for opportunities as a **Cloud detection engineer(AWS-Based)** — contract, full-time, or apprenticeship.
+📧 Email: **oluwatobimustapha539@gmail.com**    
 
-If you're building a cloud security team and need someone who's **hands-on, reliable, and growing daily**, I'll be glad to work with you.
-
-📧 Email me directly: **oluwatobimustapha539@gmail.com**  
-💬 DM me on [𝕏](https://x.com/Techboy150) or connect on [LinkedIn](https://www.linkedin.com/in/oluwatobi-mustapha-2b2058335)
+> *“Security is no longer reactive — it’s engineered.”*  
