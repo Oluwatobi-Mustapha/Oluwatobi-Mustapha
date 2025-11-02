@@ -20,7 +20,7 @@ My focus is to **detect, respond, and adapt** plus building future-proof defense
 I’m an **Electrical Engineering graduate** building deep expertise in **cloud security engineering**.  
 
 
-> “Every lab, every failure, every automation script are all part of the mastery process.”  
+> Every lab, every failure, every automation script are all part of the mastery process.  
 
 ---
 
@@ -60,13 +60,11 @@ I’m an **Electrical Engineering graduate** building deep expertise in **cloud 
 ### 🧠 Detection & Response
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-E34F26?style=for-the-badge&logo=suricata&logoColor=white)
 
 ---
 
 ### 🧩 Networking & Analysis
 ![Nmap](https://img.shields.io/badge/Nmap-00599C?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![Netcat](https://img.shields.io/badge/Netcat-333333?style=for-the-badge&logo=gnu&logoColor=white)
 
 ---
 
@@ -96,4 +94,4 @@ I’m open to **Cloud Security Engineering** roles: full-time, contract, or appr
 
 📧 Email: **oluwatobimustapha539@gmail.com**    
 
-> *“Security is no longer reactive — it’s engineered.”*  
+> *Security is no longer reactive, it’s engineered.*  
