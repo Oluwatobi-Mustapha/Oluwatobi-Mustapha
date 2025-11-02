@@ -36,33 +36,46 @@ I’m an **Electrical Engineering graduate** building deep expertise in **cloud 
 - **Incident Response (On-Prem)** – Practiced structured evidence collection, triage, and containment across hybrid environments.  
 
 
-## 🛠️ Tools & Technologies 
+## 🛠️ Tools & Technologies
 
 ### ☁️ AWS Services
-- **Amazon S3** – Data storage and exfiltration simulation  
-- **AWS CloudTrail** – Event logging, investigation, and attack tracing  
-- **Amazon GuardDuty** – Threat detection and anomaly analysis  
-- **AWS IAM** – Key abuse detection, policy management, and privilege monitoring  
-- **AWS Lambda** – Serverless automation for detection and response workflows  
-- **Amazon EventBridge** – Event-driven automation and alert orchestration  
-- **Amazon CloudWatch** – Monitoring, log analysis, and metric-based alerting  
-- **AWS Config** – Continuous compliance and resource change tracking  
-- **VPC Flow Logs** – Network visibility and threat hunting data source  
-- **EC2 Instances** – Attacker/defender environments and honeypot deployment  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GuardDuty](https://img.shields.io/badge/GuardDuty-FF4F00?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF4F00?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F00?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![AWS Config](https://img.shields.io/badge/Config-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-569A31?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-### 🧠 Detection & Response Tools
-- **Splunk** – Endpoint detection and telemetry collection  
-- **Wireshark** – Network packet capture, traffic analysis, and malware tracing  
+---
+
+### 🧠 Detection & Response
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-E34F26?style=for-the-badge&logo=suricata&logoColor=white)
+
+---
 
 ### 🧩 Networking & Analysis
-- **Nmap** – Reconnaissance and port scanning simulation  
-- **Netcat** – Data exfiltration and C2 channel emulation 
+![Nmap](https://img.shields.io/badge/Nmap-00599C?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-333333?style=for-the-badge&logo=gnu&logoColor=white)
+
+---
 
 ### 🧰 Supporting Tools
-- **Python (Boto3)** – Scripted investigations and AWS automation  
-- **JSON / YAML** – Event log parsing and IaC configurations  
-- **Git & GitHub** – Version control and project documentation  
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Boto3](https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ## 🎓 Certifications 
 
