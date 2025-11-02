@@ -75,7 +75,7 @@ I’m an **Electrical Engineering graduate** building deep expertise in **cloud 
 
 ## 💼 Open to Work  
 
-I’m open to **Cloud Security Engineering*** roles — full-time, contract, or apprenticeship.  
+I’m open to **Cloud Security Engineering** roles: full-time, contract, or apprenticeship.  
 
 📧 Email: **oluwatobimustapha539@gmail.com**    
 
