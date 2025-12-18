@@ -58,10 +58,10 @@ I am currently engineering solutions for **Non-Human Identity (NHI)** and **Clou
 
 ---
 
-### Connect
+I am open to discussing **IAM Security** roles.
+---
 
-I am open to discussing **Cloud Security Engineering** and **Identity Architecture** opportunities.
+### Connect via Email: **oluwatobimustapha539@gmail.com**
 
-📧 Email: **oluwatobimustapha539@gmail.com**
 
 > **Identity is the new perimeter.**
