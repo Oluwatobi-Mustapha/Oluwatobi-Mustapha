@@ -1,10 +1,12 @@
 # Hi, I'm Oluwatobi Mustapha 👋
 
-### Cloud Identity & Security Engineer | IAM Architect
+### Cloud Security Engineer focused on Identity (IAM)
 
 **Specializing in Non-Human Identity, Policy-as-Code, and Multi-Cloud Governance.**
 
-I treat Identity as the new security perimeter. Instead of traditional "gatekeeping," I engineer automated identity fabrics that secure the interaction between code, humans, and infrastructure. My focus is on architecting **Zero Trust** systems across **AWS, Azure, google cloud and Kubernetes**, moving beyond manual administration to build scalable, code-driven access controls.
+**I build the "digital keys" for cloud infrastructure.**
+
+My goal is simple: ensure the right people (and bots) have the right access, at the right time. Instead of manually clicking buttons to grant permissions, I write code that automates security across **AWS, Azure, and Kubernetes**. I turn messy access rules into clean, scalable code..
 
 ---
 
@@ -66,4 +68,4 @@ I am open to discussing **Cloud Security Engineering** and **Identity Architectu
 
 📧 Email: **oluwatobimustapha539@gmail.com**
 
-> *Identity is the new perimeter.*
+> **Identity is the new perimeter.**
