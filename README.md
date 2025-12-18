@@ -8,7 +8,7 @@ I engineer security solutions that bridge the gap between DevOps velocity and ri
 
 ---
 
-## 🚀 Active Development & Engineering
+##  Active Development & Engineering
 
 I am currently engineering solutions for **Non-Human Identity (NHI)** and **Cloud Infrastructure Entitlement Management (CIEM)**, addressing the security challenges of modern, ephemeral infrastructure.
 
@@ -18,9 +18,9 @@ I am currently engineering solutions for **Non-Human Identity (NHI)** and **Clou
 
 ---
 
-## 🛠️ Technical Arsenal
+##  Technical Arsenal
 
-### 🔐 Identity Fabric & Governance
+### Identity Fabric & Governance
 *The core of modern security architecture.*
 ![AWS IAM](https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure Entra ID](https://img.shields.io/badge/Azure%20Entra%20ID-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -28,7 +28,7 @@ I am currently engineering solutions for **Non-Human Identity (NHI)** and **Clou
 ![AWS Cedar](https://img.shields.io/badge/AWS%20Cedar-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![SPIFFE/SPIRE](https://img.shields.io/badge/SPIFFE%2FSPIRE-00C7B7?style=for-the-badge&logo=spiffe&logoColor=white)
 
-### 🏗️ Multi-Cloud Infrastructure
+###  Multi-Cloud Infrastructure
 *Securing the platforms that run the code.*
 ![AWS Cloud](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -36,7 +36,7 @@ I am currently engineering solutions for **Non-Human Identity (NHI)** and **Clou
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 💻 Engineering & Automation
+###  Engineering & Automation
 *Tools for building defensible systems.*
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,7 +46,7 @@ I am currently engineering solutions for **Non-Human Identity (NHI)** and **Clou
 
 ---
 
-## 🎓 Certifications & Competencies
+##  Certifications & Competencies
 
 ![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
@@ -58,10 +58,10 @@ I am currently engineering solutions for **Non-Human Identity (NHI)** and **Clou
 
 ---
 
-### 📫 Connect
+### Connect
 
 I am open to discussing **Cloud Security Engineering** and **Identity Architecture** opportunities.
 
 📧 Email: **oluwatobimustapha539@gmail.com**
 
-> *Security is no longer just a gate; it is the fabric of the infrastructure.*
+> *Identity is the new perimeter.*
