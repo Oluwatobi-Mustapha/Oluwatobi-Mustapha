@@ -8,8 +8,6 @@ My goal is simple: ensure the right people (and bots) have the right access, at 
 
 ---
 
----
-
 ##  Active Development & Engineering
 
 I am currently engineering solutions for **Non-Human Identity (NHI)** and **Cloud Infrastructure Entitlement Management (CIEM)**, addressing the security challenges of modern, ephemeral infrastructure.
