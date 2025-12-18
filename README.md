@@ -2,18 +2,18 @@
 
 ### Cloud Security Engineer | Identity & Infrastructure Security
 
-**Specializing in Identity-Native Infrastructure, Multi-Cloud Governance, and Policy-as-Code.**
+**Specializing in Multi-Cloud Identity, Zero Trust Architecture, and Policy-as-Code.**
 
-I engineer security solutions that bridge the gap between DevOps velocity and rigid compliance. My work focuses on architecting Zero Trust identity fabrics and automating privilege management across AWS, Azure, and Kubernetes environments. I move beyond standard "click-ops" administration to build scalable, code-driven security mechanisms.
+I engineer security solutions that bridge the gap between DevOps velocity and rigid compliance. My work focuses on architecting Zero Trust identity fabrics and automating privilege management across **AWS, Azure, and Google Cloud** environments. I move beyond standard "click-ops" administration to build scalable, code-driven security mechanisms.
 
 ---
 
-## 🚀 Active Development & Research
+## 🚀 Active Development & Engineering
 
 I am currently engineering solutions for **Non-Human Identity (NHI)** and **Cloud Infrastructure Entitlement Management (CIEM)**, addressing the security challenges of modern, ephemeral infrastructure.
 
 - **Automated CIEM & Privilege Analysis:** Developing Python-based tooling to detect "Shadow Admins" and visualize hidden privilege escalation paths within AWS IAM.
-- **Workload Identity Federation:** Architecting "keyless" authentication patterns using OIDC to eliminate long-lived credentials in CI/CD pipelines (GitHub Actions $\leftrightarrow$ AWS/Azure/GCP).
+- **Multi-Cloud Workload Identity:** Architecting "keyless" authentication patterns using OIDC to eliminate long-lived credentials in CI/CD pipelines (GitHub Actions $\leftrightarrow$ AWS/Azure/GCP).
 - **Generative AI for Governance:** Researching the integration of LLMs to audit complex JSON policies and automate least-privilege generation.
 
 ---
@@ -28,12 +28,13 @@ I am currently engineering solutions for **Non-Human Identity (NHI)** and **Clou
 ![AWS Cedar](https://img.shields.io/badge/AWS%20Cedar-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![SPIFFE/SPIRE](https://img.shields.io/badge/SPIFFE%2FSPIRE-00C7B7?style=for-the-badge&logo=spiffe&logoColor=white)
 
-### 🏗️ Infrastructure & Orchestration
+### 🏗️ Multi-Cloud Infrastructure
 *Securing the platforms that run the code.*
+![AWS Cloud](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS Cloud](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ### 💻 Engineering & Automation
 *Tools for building defensible systems.*
@@ -52,8 +53,8 @@ I am currently engineering solutions for **Non-Human Identity (NHI)** and **Clou
 
 **Core Competencies:**
 - **Cloud Identity Architecture:** RBAC, ABAC, OIDC, SAML 2.0.
-- **Infrastructure as Code Security:** Terraform, Drift Detection.
-- **Container Security:** Kubernetes RBAC, Service Mesh Identity.
+- **Infrastructure as Code Security:** Terraform, Drift Detection, Policy-as-Code.
+- **Container Security:** Kubernetes RBAC, Service Mesh Identity (mTLS).
 
 ---
 
