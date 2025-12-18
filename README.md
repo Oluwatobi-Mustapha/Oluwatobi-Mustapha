@@ -4,9 +4,7 @@
 
 **Specializing in Non-Human Identity, Policy-as-Code, and Multi-Cloud Governance.**
 
-**I build the "digital keys" for cloud infrastructure.**
-
-My goal is simple: ensure the right people (and bots) have the right access, at the right time. Instead of manually clicking buttons to grant permissions, I write code that automates security across **AWS, Azure, and Kubernetes**. I turn messy access rules into clean, scalable code..
+My goal is simple: ensure the right people (and bots) have the right access, at the right time. Instead of manually clicking buttons to grant permissions, I write code that automates security across **AWS, Azure, Google Cloud and Kubernetes**. I turn messy access rules into clean, scalable code..
 
 ---
 
