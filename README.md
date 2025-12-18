@@ -1,6 +1,6 @@
 # Hi, I'm Oluwatobi Mustapha 👋
 
-### Cloud Security Engineer focused on Identity (IAM)
+### IAM Security Engineer
 
 **Specializing in Non-Human Identity, Policy-as-Code, and Multi-Cloud Governance.**
 
