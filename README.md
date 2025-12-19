@@ -4,7 +4,7 @@
 
 **Specializing in Non-Human Identity, Policy-as-Code, and Multi-Cloud Governance.**
 
-My goal is simple: ensure the right people (and bots) have the right access, at the right time—without slowing down development. Instead of manually clicking buttons to grant permissions, I write code that automates security across **AWS, Azure, Google Cloud, and Kubernetes**. I build "frictionless" identity architectures that turn messy access rules into clean, scalable, and audit-ready code.
+My goal is simple: ensure the right people (and bots) have the right access, at the right time—without slowing down development. Instead of manually clicking buttons to grant permissions, I write code that automates security across **AWS, Azure and Kubernetes**. I build "frictionless" identity architectures that turn messy access rules into clean, scalable, and audit-ready code.
 
 ---
 
@@ -27,17 +27,16 @@ I am currently engineering solutions for **Non-Human Identity (NHI)** and **Clou
 ![Azure Entra ID](https://img.shields.io/badge/Azure%20Entra%20ID-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-CA2171?style=for-the-badge&logo=vault&logoColor=white)
 ![OPA](https://img.shields.io/badge/Open%20Policy%20Agent-36454F?style=for-the-badge&logo=openpolicyagent&logoColor=white)
-![Google Cloud IAM](https://img.shields.io/badge/Google%20Cloud%20IAM-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS Cedar](https://img.shields.io/badge/AWS%20Cedar-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![SPIFFE/SPIRE](https://img.shields.io/badge/SPIFFE%2FSPIRE-00C7B7?style=for-the-badge&logo=spiffe&logoColor=white)
+![Teleport](https://img.shields.io/badge/Teleport-5D0E8B?style=for-the-badge&logo=teleport&logoColor=white)
+
 
 ### Multi-Cloud Infrastructure & Access
 *Securing the platforms that run the code.*
 ![AWS Cloud](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Teleport](https://img.shields.io/badge/Teleport-5D0E8B?style=for-the-badge&logo=teleport&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Engineering & Automation
 *Tools for building defensible systems.*
