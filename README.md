@@ -1,4 +1,4 @@
-# Hi, I'm Oluwatobi Mustapha 👋
+# Hi, I'm Oluwatobi Mustapha 
 
 ### IAM Security Engineer
 
