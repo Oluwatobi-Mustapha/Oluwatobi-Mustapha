@@ -22,7 +22,7 @@ I am currently engineering solutions for **Non-Human Identity (NHI)** and **Clou
 ## Technical Arsenal
 
 ### Identity Fabric & Governance
-*The core of modern security architecture.*
+`The core of modern security architecture.`
 ![AWS IAM](https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure Entra ID](https://img.shields.io/badge/Azure%20Entra%20ID-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-CA2171?style=for-the-badge&logo=vault&logoColor=white)
@@ -33,13 +33,13 @@ I am currently engineering solutions for **Non-Human Identity (NHI)** and **Clou
 
 
 ### Multi-Cloud Infrastructure & Access
-*Securing the platforms that run the code.*
+`Securing the platforms that run the code.`
 ![AWS Cloud](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Engineering & Automation
-*Tools for building defensible systems.*
+`Tools for building defensible systems.`
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -55,6 +55,7 @@ I am currently engineering solutions for **Non-Human Identity (NHI)** and **Clou
 ## Certifications & Competencies
 
 ![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/HashiCorp_Certified:_Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 
 **Core Competencies:**
