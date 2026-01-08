@@ -49,13 +49,14 @@ I am currently engineering solutions for **Non-Human Identity (NHI)** and **Clou
 
 ---
 
-## Certifications & Competencies
+## Certifications
 
 ![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/HashiCorp_Certified:_Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 
-**Core Competencies:**
+## Core Competencies
+
 - **Cloud Identity Architecture:** RBAC, ABAC, OIDC, SAML 2.0.
 - **Infrastructure as Code Security:** Terraform, Drift Detection, Policy-as-Code.
 - **Container Security:** Kubernetes RBAC, Service Mesh Identity (mTLS).
