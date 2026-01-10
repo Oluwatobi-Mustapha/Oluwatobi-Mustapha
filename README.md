@@ -2,7 +2,7 @@
 
 ### IAM Security Engineer
 
-**Specializing in Non-Human Identity, Policy-as-Code, and Multi-Cloud Governance.**
+**Specializing in Multi-Cloud IAM Security, Non-Human Identity, and Policy-as-Code.**
 
 My goal is simple: ensure the right people and bots have the right access, at the right time without slowing down development. Instead of manually clicking buttons to grant permissions, I write code that automates security across **AWS, Azure and Kubernetes** and also build frictionless identity architectures that turn messy access rules into clean, scalable, and audit-ready code.
 
