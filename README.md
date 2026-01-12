@@ -10,10 +10,10 @@ Goal: ensure the right people and bots have the right access, at the right time.
 
 ## Active Development & Engineering
 
-Currently engineering solutions for *Non-Human Identity (NHI)* and *Cloud Infrastructure Entitlement Management (CIEM)*
+Currently engineering solutions for **Non-Human Identity (NHI)** and **Cloud Infrastructure Entitlement Management (CIEM)**
 
 - **Automated CIEM & Privilege Analysis:** Developing Python-based tooling (using Boto3 & Neo4j) to detect "Shadow Admins" and visualize hidden privilege escalation paths within AWS IAM.
-- **Multi-Cloud Workload Identity:** Architecting "keyless" authentication patterns using **OIDC and HashiCorp Vault** to eliminate long-lived credentials in CI/CD pipelines (GitHub Actions $\leftrightarrow$ AWS/Azure).
+- **Multi-Cloud Workload Identity:** Architecting "keyless" authentication patterns using **OIDC and HashiCorp Vault** to eliminate long-lived credentials in CI/CD pipelines.
 - **Developer-First Governance (ChatOps):** Building **Just-in-Time (JIT)** access workflows that allow engineers to request temporary, **SOC2-compliant** access directly via Slack/Teams, eliminating context switching.
 - **Generative AI for Governance:** Researching the integration of LLMs to audit complex JSON policies and automate least-privilege generation.
 
@@ -65,7 +65,7 @@ Currently engineering solutions for *Non-Human Identity (NHI)* and *Cloud Infras
 
 ---
 
-I am open to discussing **IAM Security** roles.
+Open to **IAM Security** roles.
 ---
 
 ### Connect via Email: **oluwatobimustapha539@gmail.com**
