@@ -10,7 +10,7 @@ Goal: ensure the right people and bots have the right access, at the right time.
 
 ## Active Development & Engineering
 
-I am currently engineering solutions for **Non-Human Identity (NHI)** and **Cloud Infrastructure Entitlement Management (CIEM)**, addressing the security challenges of modern, ephemeral infrastructure.
+Currently engineering solutions for *Non-Human Identity (NHI)* and *Cloud Infrastructure Entitlement Management (CIEM)*
 
 - **Automated CIEM & Privilege Analysis:** Developing Python-based tooling (using Boto3 & Neo4j) to detect "Shadow Admins" and visualize hidden privilege escalation paths within AWS IAM.
 - **Multi-Cloud Workload Identity:** Architecting "keyless" authentication patterns using **OIDC and HashiCorp Vault** to eliminate long-lived credentials in CI/CD pipelines (GitHub Actions $\leftrightarrow$ AWS/Azure).
