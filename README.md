@@ -4,7 +4,7 @@
 
 **Specializing in Multi-Cloud IAM Security, Non-Human Identity, and Policy-as-Code.**
 
-Goal: ensure the right people and bots have the right access, at the right time without slowing down development. Instead of manually clicking buttons to grant permissions, I write code that automates security across **AWS, Azure and Kubernetes** and also build frictionless identity architectures that turn messy access rules into clean, scalable, and audit-ready code.
+Goal: ensure the right people and bots have the right access, at the right time. Instead of manually clicking buttons to grant permissions, I write code that automates security across **AWS, Azure and Kubernetes** and also build frictionless identity architectures that turn access rules into scalable, and audit-ready code.
 
 ---
 
