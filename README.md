@@ -12,7 +12,7 @@
 
 Currently engineering solutions for **Non-Human Identity (NHI)** and **Cloud Infrastructure Entitlement Management (CIEM)**
 
-- **Automated CIEM & Privilege Analysis:** Developing Python-based tooling (using Boto3 & Neo4j) to detect "Shadow Admins" and visualize hidden privilege escalation paths within AWS IAM.
+- **Automated CIEM & Privilege Analysis:** Developing Python-based tooling (using Boto3 & Neo4j) to detect Shadow Admins and visualize hidden privilege escalation paths within AWS IAM.
   
 - **Multi-Cloud Workload Identity:** Architecting "keyless" authentication patterns using **OIDC and HashiCorp Vault** to eliminate long-lived credentials in CI/CD pipelines.
 
