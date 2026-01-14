@@ -29,14 +29,6 @@ Currently engineering solutions for **Non-Human Identity (NHI)** and **Cloud Inf
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### Identity Fabric & Governance
-![AWS IAM](https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure Entra ID](https://img.shields.io/badge/Azure%20Entra%20ID-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-CA2171?style=for-the-badge&logo=vault&logoColor=white)
-![OPA](https://img.shields.io/badge/Open%20Policy%20Agent-36454F?style=for-the-badge&logo=openpolicyagent&logoColor=white)
-![AWS Cedar](https://img.shields.io/badge/AWS%20Cedar-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![SPIFFE/SPIRE](https://img.shields.io/badge/SPIFFE%2FSPIRE-00C7B7?style=for-the-badge&logo=spiffe&logoColor=white)
-![Teleport](https://img.shields.io/badge/Teleport-5D0E8B?style=for-the-badge&logo=teleport&logoColor=white)
 
 ### Engineering & Automation
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
@@ -47,6 +39,16 @@ Currently engineering solutions for **Non-Human Identity (NHI)** and **Cloud Inf
 ![Boto3](https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-255E4E?style=for-the-badge&logo=grpc&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+
+### Identity Fabric & Governance
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure Entra ID](https://img.shields.io/badge/Azure%20Entra%20ID-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-CA2171?style=for-the-badge&logo=vault&logoColor=white)
+![OPA](https://img.shields.io/badge/Open%20Policy%20Agent-36454F?style=for-the-badge&logo=openpolicyagent&logoColor=white)
+![AWS Cedar](https://img.shields.io/badge/AWS%20Cedar-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![SPIFFE/SPIRE](https://img.shields.io/badge/SPIFFE%2FSPIRE-00C7B7?style=for-the-badge&logo=spiffe&logoColor=white)
+![Teleport](https://img.shields.io/badge/Teleport-5D0E8B?style=for-the-badge&logo=teleport&logoColor=white)
 
 
 ---
