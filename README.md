@@ -48,7 +48,7 @@ Currently engineering solutions for **Non-Human Identity (NHI)** and **Cloud Inf
 ![Boto3](https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-255E4E?style=for-the-badge&logo=grpc&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
