@@ -74,5 +74,3 @@ Open to **IAM Security** roles.
 
 ### Connect via Email: **oluwatobimustapha539@gmail.com**
 
-
-> **Identity is the new perimeter.**
