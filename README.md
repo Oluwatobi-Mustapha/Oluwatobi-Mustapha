@@ -70,17 +70,17 @@ Currently engineering solutions for **Non-Human Identity (NHI)** and **Cloud Inf
 ---
 
 <div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OLuwatobi-Mustapha&show_icons=true&theme=radical&count_private=true" alt="OLuwatobi-Mustapha's GitHub Stats" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OLuwatobi-Mustapha&layout=compact&theme=radical&hide=html,css,jupyter%20notebook" alt="Top Languages" />
-</a>
-
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=OLuwatobi-Mustapha&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OLuwatobi-Mustapha&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
----
 
 Open to **IAM Security** roles.
 ---
