@@ -8,18 +8,13 @@
 
 ---
 
-## Active Development & Engineering
+### 🛠️ Featured Engineering
 
-Currently engineering solutions for **Non-Human Identity (NHI)** and **Cloud Infrastructure Entitlement Management (CIEM)**
-
-- **Automated CIEM & Privilege Analysis:** Developing Python-based tooling (using Boto3 & Neo4j) to detect Shadow Admins and visualize hidden privilege escalation paths within AWS IAM.
-  
-- **Multi-Cloud Workload Identity:** Architecting "keyless" authentication patterns using **OIDC and HashiCorp Vault** to eliminate long-lived credentials in CI/CD pipelines.
-
-- **Developer-First Governance (ChatOps):** Building **Just-in-Time (JIT)** access workflows that allow engineers to request temporary, **SOC2-compliant** access directly via Slack/Teams, eliminating context switching.
-  
-- **Generative AI for Governance:** Researching the integration of LLMs to audit complex JSON policies and automate least-privilege generation.
-
+| Project | Impact & Architecture | Tech Stack |
+| :--- | :--- | :--- |
+| **IAM Privilege Fuzzer**<br>*(Open Source)* | Automated CIEM tool that detects **Shadow Admins** and visualizes privilege escalation paths in AWS. Replaces manual auditing with graph-based analysis. | `Python` `Boto3` `Neo4j` `Docker` |
+| **Keyless Workload Identity**<br>*(Architecture)* | Designed an OIDC federation pattern to eliminate long-lived AWS keys in CI/CD. Reduces credential theft surface area by 100%. | `HashiCorp Vault` `Terraform` `OIDC` |
+| **Just-in-Time Access Bot**<br>*(ChatOps)* | Slack-based workflow for requesting temporary, **SOC2-compliant** access. Auto-expires permissions after 2 hours. | `Go` `Slack API` `AWS Lambda` |
 ---
 
 ## Technical Arsenal
