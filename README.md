@@ -6,13 +6,14 @@
 
 ---
 
-### 🛠️ Featured Engineering
+## 🚀 Active Engineering & Architecture
 
-| Project | Impact & Architecture | Tech Stack |
+| Project / Initiative | Engineering Solution & Impact | Tech Stack |
 | :--- | :--- | :--- |
-| **IAM Privilege Fuzzer**<br>*(Open Source)* | Automated CIEM tool that detects **Shadow Admins** and visualizes privilege escalation paths in AWS. Replaces manual auditing with graph-based analysis. | `Python` `Boto3` `Neo4j` `Docker` |
-| **Keyless Workload Identity**<br>*(Architecture)* | Designed an OIDC federation pattern to eliminate long-lived AWS keys in CI/CD. Reduces credential theft surface area by 100%. | `HashiCorp Vault` `Terraform` `OIDC` |
-| **Just-in-Time Access Bot**<br>*(ChatOps)* | Slack-based workflow for requesting temporary, **SOC2-compliant** access. Auto-expires permissions after 2 hours. | `Go` `Slack API` `AWS Lambda` |
+| **IAM Fuzzer**<br>*(Open Source)* | **Automated CIEM Engine:** A graph-based security tool that ingests AWS policies to detect **Shadow Admins** and visualize hidden privilege escalation paths. | `Python` `Boto3` `Neo4j` `Terraform` |
+| **Keyless Workload Identity**<br>*(Architecture)* | **Zero-Trust Auth:** Architected a federation pattern using OIDC and Vault to eliminate long-lived AWS credentials in CI/CD, reducing attack surface by 100%. | `Vault` `OIDC` `AWS IAM` |
+| **ChatOps Governance**<br>*(Internal Tool)* | **JIT Access Workflow:** A Slack-based bot allowing engineers to request temporary, **SOC2-compliant** access. Auto-expires permissions to enforce least privilege. | `Go` `Slack API` `Lambda` |
+| **PolicyGPT**<br>*(R&D)* | **GenAI Auditing:** Integrating LLMs to semantically analyze complex JSON policies and automate the generation of least-privilege templates. | `LLMs` `Python` `LangChain` |
 ---
 
 ## Technical Arsenal
