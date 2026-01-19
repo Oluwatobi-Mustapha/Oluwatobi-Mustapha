@@ -6,14 +6,16 @@
 
 ---
 
-## 🚀 Active Engineering & Architecture
+##  Active Engineering & Architecture
 
-| Project / Initiative | Engineering Solution & Impact | Tech Stack |
-| :--- | :--- | :--- |
-| **IAM Fuzzer**<br>*(Open Source)* | **Automated CIEM Engine:** A graph-based security tool that ingests AWS policies to detect **Shadow Admins** and visualize hidden privilege escalation paths. | `Python` `Boto3` `Neo4j` `Terraform` |
-| **Keyless Workload Identity**<br>*(Architecture)* | **Zero-Trust Auth:** Architected a federation pattern using OIDC and Vault to eliminate long-lived AWS credentials in CI/CD, reducing attack surface by 100%. | `Vault` `OIDC` `AWS IAM` |
-| **ChatOps Governance**<br>*(Internal Tool)* | **JIT Access Workflow:** A Slack-based bot allowing engineers to request temporary, **SOC2-compliant** access. Auto-expires permissions to enforce least privilege. | `Go` `Slack API` `Lambda` |
-| **PolicyGPT**<br>*(R&D)* | **GenAI Auditing:** Integrating LLMs to semantically analyze complex JSON policies and automate the generation of least-privilege templates. | `LLMs` `Python` `LangChain` |
+| Project / Initiative | Engineering Solution & Governance Impact |
+| :--- | :--- |
+| **The IAM Fuzzer**<br> | **Logic Gap Detection:** Developed a logic analyzer to identify flaws in IAM policy interactions (Explicit Deny vs. SCPs). Automates verification of **CIS AWS Foundations Benchmark (Section 1)**. |
+| **Cedar Policy Engine**<br> | **Compliance Guardrails:** Implementing Policy-as-Code using AWS Cedar to prevent **Configuration Drift**. Acts as an immutable Compliance Guardrail for authorization logic. |
+| **Least Privilege Vending**<br> | **Automated Provisioning:** Built a Terraform-based "Access Vending Machine." Automates request fulfillment and generates code-based evidence for **SOC2 CC6.1 (Logical Access)** audits. |
+| **Shadow Admin Scanner**<br>  | **NIST Risk Mapping:** Engineered a scanner to detect hidden privilege escalation paths (Shadow Admins). Maps findings directly to **NIST 800-53 (Control AC-6)** for audit readiness. |
+
+---
 ---
 
 ## Technical Arsenal
