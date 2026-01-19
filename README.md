@@ -8,7 +8,7 @@
 
 ##  Active Engineering & Architecture
 
-| Project / Initiative | Engineering Solution & Governance Impact |
+| Project | Engineering Solution & Governance Impact |
 | :--- | :--- |
 | **The IAM Fuzzer**<br> | **Logic Gap Detection:** Developed a logic analyzer to identify flaws in IAM policy interactions (Explicit Deny vs. SCPs). Automates verification of **CIS AWS Foundations Benchmark (Section 1)**. |
 | **Cedar Policy Engine**<br> | **Compliance Guardrails:** Implementing Policy-as-Code using AWS Cedar to prevent **Configuration Drift**. Acts as an immutable Compliance Guardrail for authorization logic. |
