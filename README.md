@@ -17,12 +17,10 @@
 
 ---
 
-## Technical Arsenal
-
 ### Multi-Cloud Infrastructure & Access
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
@@ -32,46 +30,27 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
   <img src="https://img.shields.io/badge/Boto3-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
 </p>
 
 ### Identity Fabric & Governance
 <p>
-  <img src="https://img.shields.io/badge/AWS%20IAM-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Entra%20ID-0072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Entra%20ID-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&logo=vault&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Policy%20Agent-333333?style=for-the-badge&logo=open-policy-agent&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Cedar-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Policy%20Agent-333333?style=for-the-badge&logo=openpolicyagent&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Cedar-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/SPIFFE%20%2F%20SPIRE-000000?style=for-the-badge&logo=spiffe&logoColor=green" />
 </p>
 
 ### Certifications
 <p>
-  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/HashiCorp%20Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA%20Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
 </p>
-
----
-
-## Certifications
-
-<p>
-  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/HashiCorp%20Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA%20Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
-</p>
-
-## Core Competencies
-
-- **Cloud Identity Architecture:** RBAC, ABAC, OIDC, SAML 2.0.
-- **Infrastructure as Code Security:** Terraform, Drift Detection, Policy-as-Code.
-- **Container Security:** Kubernetes RBAC, Service Mesh Identity (mTLS).
-- **Secrets Management:** Lifecycle management (Rotation/Injection) using HashiCorp Vault.
-- **Compliance Engineering:** Mapping IAM controls to SOC2 Type II and CIS Benchmarks.
-
 ---
 
 <div align="center">
