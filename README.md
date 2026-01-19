@@ -16,44 +16,48 @@
 | **Shadow Admin Scanner**<br>  | **NIST Risk Mapping:** Engineered a scanner to detect hidden privilege escalation paths (Shadow Admins). Maps findings directly to **NIST 800-53 (Control AC-6)** for audit readiness. |
 
 ---
----
 
 ## Technical Arsenal
 
 ### Multi-Cloud Infrastructure & Access
-![AWS Cloud](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
 
 
 ### Engineering & Automation
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Boto3](https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-255E4E?style=for-the-badge&logo=grpc&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
+<p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Boto3-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
+</p>
 
 ### Identity Fabric & Governance
-![AWS IAM](https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure Entra ID](https://img.shields.io/badge/Azure%20Entra%20ID-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-CA2171?style=for-the-badge&logo=vault&logoColor=white)
-![OPA](https://img.shields.io/badge/Open%20Policy%20Agent-36454F?style=for-the-badge&logo=openpolicyagent&logoColor=white)
-![AWS Cedar](https://img.shields.io/badge/AWS%20Cedar-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![SPIFFE/SPIRE](https://img.shields.io/badge/SPIFFE%2FSPIRE-00C7B7?style=for-the-badge&logo=spiffe&logoColor=white)
-![Teleport](https://img.shields.io/badge/Teleport-5D0E8B?style=for-the-badge&logo=teleport&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/AWS%20IAM-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Entra%20ID-0072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&logo=vault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Policy%20Agent-333333?style=for-the-badge&logo=open-policy-agent&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Cedar-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPIFFE%20%2F%20SPIRE-000000?style=for-the-badge&logo=spiffe&logoColor=green" />
+</p>
 
 
 ---
 
 ## Certifications
 
-![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/HashiCorp_Certified:_Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/HashiCorp%20Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA%20Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+</p>
 
 ## Core Competencies
 
