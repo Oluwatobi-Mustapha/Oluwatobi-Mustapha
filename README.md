@@ -16,7 +16,6 @@
 
 * **Shadow Admin Scanner:** Engineered a graph-based engine to uncover toxic permission combinations, mapping technical risks directly to **NIST 800-53** standards.
 
----
 
 ### Infrastructure
 ![AWS Cloud](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -39,7 +38,6 @@
 ![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp_Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
----
 
 ## Competencies
 
