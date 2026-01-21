@@ -23,16 +23,16 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Engineering & Automation
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### Identity Stack
+![AWS Cedar](https://img.shields.io/badge/AWS%20Cedar-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure Entra ID](https://img.shields.io/badge/Azure%20Entra%20ID-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-CA2171?style=for-the-badge&logo=vault&logoColor=white)
 ![OPA](https://img.shields.io/badge/Open%20Policy%20Agent-36454F?style=for-the-badge&logo=openpolicyagent&logoColor=white)
-![AWS Cedar](https://img.shields.io/badge/AWS%20Cedar-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![SPIFFE](https://img.shields.io/badge/SPIFFE%2FSPIRE-00C7B7?style=for-the-badge&logo=spiffe&logoColor=white)
+![SPIFFE](https://img.shields.io/badge/SPIFFE-00C7B7?style=for-the-badge&logo=spiffe&logoColor=white)
 
 ## Certifications
 ![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
