@@ -45,6 +45,7 @@
 - **IaC Security:** Drift Detection, Policy-as-Code.
 - **Container Security:** Kubernetes RBAC, Service Mesh Identity (mTLS).
 - **Secrets Ops:** Lifecycle Rotation & Injection.
+---
+**Open to IAM / Identity Security Engineering roles**
 
-### Open to IAM Security roles.
-📧: oluwatobimustapha539@gmail.com
+📧 Contact: oluwatobimustapha539@gmail.com
