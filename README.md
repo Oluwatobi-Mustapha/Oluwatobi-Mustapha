@@ -46,6 +46,6 @@
 - **Container Security:** Kubernetes RBAC, Service Mesh Identity (mTLS).
 - **Secrets Ops:** Lifecycle Rotation & Injection.
 ---
-**Open to IAM / Identity Security Engineering roles**
+**Open to  Cloud Security Engineer | IAM Security Engineering roles**
 
 📧 Contact: oluwatobimustapha539@gmail.com
