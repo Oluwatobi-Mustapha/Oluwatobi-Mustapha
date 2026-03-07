@@ -7,7 +7,7 @@
 
 ---
 
-## Selected Open Source Contributions
+## Open Source Contributions
 
 I contribute security fixes to enterprise identity infrastructure and cloud governance frameworks.
 
