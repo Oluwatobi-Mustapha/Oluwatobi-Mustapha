@@ -26,10 +26,10 @@ I contribute security fixes to enterprise identity infrastructure and cloud gove
 
 ## Projects
 
-**[Boundary – AWS JIT Access Broker](https://github.com/Oluwatobi-Mustapha/boundary)**  
+* **[Boundary – AWS JIT Access Broker](https://github.com/Oluwatobi-Mustapha/boundary)**  
 Building a Just-in-Time access vending engine that reduces provisioning time from days to seconds while automatically generating artifacts required for SOC2 audits.
 
-**[IAM Logic Fuzzer](https://github.com/Oluwatobi-Mustapha/iam-fuzzer)**  
+* **[IAM Logic Fuzzer](https://github.com/Oluwatobi-Mustapha/iam-fuzzer)**  
 Security testing tool designed to surface hidden privilege escalation paths in IAM policies while helping validate compliance with CIS AWS benchmarks.
 
 ---
