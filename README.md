@@ -2,7 +2,7 @@
 
 **Multi-Cloud IAM Security Engineer | Non-Human Identity Specialist | Core OSS Contributor**
 
-> I design and secure IAM architectures across multi-cloud environments, enforcing strict least privilege for both human and machine identities.  
+> I design and secure IAM architectures across distributed environments, enforcing strict least privilege for both human and machine identities.  
 > Proud member of the **AWS Community Builders** and **The Identity Underground**.
 
 ---
@@ -24,7 +24,7 @@ I contribute security fixes to enterprise identity infrastructure and cloud gove
 
 ---
 
-## Core Architecture & Projects
+## Projects
 
 **[Boundary – AWS JIT Access Broker](https://github.com/Oluwatobi-Mustapha/boundary)**  
 Building a Just-in-Time access vending engine that reduces provisioning time from days to seconds while automatically generating artifacts required for SOC2 audits.
@@ -72,7 +72,7 @@ Security testing tool designed to surface hidden privilege escalation paths in I
 
 ---
 
-**Open to Cloud Security Engineer & IAM Security Engineering roles**
+**Open to Cloud & IAM Security Engineering roles**
 
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatobimustapha/)
 
