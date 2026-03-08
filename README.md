@@ -11,10 +11,6 @@
 
 I contribute security fixes to enterprise identity infrastructure and cloud governance frameworks.
 
-## Open Source Contributions
-
-I contribute security fixes to enterprise identity infrastructure and cloud governance frameworks.
-
 * **[Keycloak (33k+ ★)](https://github.com/keycloak/keycloak)** Hardened OIDC compliance to guarantee stable federation with upstream IdPs, and enhanced OID4VCI flows for secure, decentralized enterprise architectures.
 
 * **[Authentik (24k+ ★)](https://github.com/goauthentik/authentik)** Patched a critical OAuth2 decoding flaw to eliminate false-positive application lockouts, delivering a fix critical enough for an immediate backport to the stable enterprise release.
