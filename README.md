@@ -15,13 +15,13 @@ I contribute security fixes to enterprise identity infrastructure and cloud gove
 
 I contribute security fixes to enterprise identity infrastructure and cloud governance frameworks.
 
-* **[Keycloak (33k+ ★)](https://github.com/keycloak/keycloak)** Hardened `OIDC` compliance to guarantee stable federation with upstream `IdPs`, and enhanced `OID4VCI` flows for secure, decentralized enterprise architectures.
+* **[Keycloak (33k+ ★)](https://github.com/keycloak/keycloak)** Hardened OIDC compliance to guarantee stable federation with upstream IdPs, and enhanced OID4VCI flows for secure, decentralized enterprise architectures.
 
-* **[Authentik (24k+ ★)](https://github.com/goauthentik/authentik)** Patched a critical `OAuth2` decoding flaw to eliminate false-positive `application lockouts`, delivering a fix critical enough for an immediate `backport` to the stable enterprise release.
+* **[Authentik (24k+ ★)](https://github.com/goauthentik/authentik)** Patched a critical OAuth2 decoding flaw to eliminate false-positive application lockouts, delivering a fix critical enough for an immediate backport to the stable enterprise release.
 
-* **[Better Auth (27k+ ★)](https://github.com/better-auth/better-auth)** Delivered core security patches that eliminated severe `OTP` bypass vulnerabilities and enforced strict `cryptographic validations` to prevent active `session hijacking`.
+* **[Better Auth (27k+ ★)](https://github.com/better-auth/better-auth)** Delivered core security patches that eliminated severe OTP bypass vulnerabilities and enforced strict cryptographic validations to prevent active session hijacking.
 
-* **[Cloud Custodian (5.9k+ ★)](https://github.com/cloud-custodian/cloud-custodian)** Fixed a critical `AWS IAM` monitoring blind spot, restoring accurate `AccessDenied` telemetry required for multi-account enterprise `compliance audits`.
+* **[Cloud Custodian (5.9k+ ★)](https://github.com/cloud-custodian/cloud-custodian)** Fixed a critical AWS IAM monitoring blind spot, restoring accurate AccessDenied telemetry required for multi-account enterprise compliance audits.
   
    *[My full open-source contribution log](https://github.com/Oluwatobi-Mustapha/oss-contributions)*
 
