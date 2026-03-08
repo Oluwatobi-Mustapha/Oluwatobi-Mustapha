@@ -11,15 +11,18 @@
 
 I contribute security fixes to enterprise identity infrastructure and cloud governance frameworks.
 
-* **[Keycloak (33k+ ★)](https://github.com/keycloak/keycloak)**  
-  Hardened identity federation by decoupling localized UI labels from backend persistence to enforce strict OIDC protocol compliance. Also contributed updates to the OID4VCI flow supporting decentralized identity processing.
+## Open Source Contributions
 
-* **[Cloud Custodian (5.9k+ ★)](https://github.com/cloud-custodian/cloud-custodian)**  
-  Fixed exception handling in the AWS IAM module to prevent `TypeError`s from silently masking `AccessDenied` telemetry during multi-account evaluations.
+I contribute security fixes to enterprise identity infrastructure and cloud governance frameworks.
 
-* **[Better Auth (27k+ ★)](https://github.com/better-auth/better-auth)**  
-  Contributed multiple security patches, including eliminating TOCTOU race conditions in OTP verification and enforcing strict server-side cryptographic cookie validation to prevent multi-session spoofing.
+* **[Keycloak (33k+ ★)](https://github.com/keycloak/keycloak)** Hardened `OIDC` compliance to guarantee stable federation with upstream `IdPs`, and enhanced `OID4VCI` flows for secure, decentralized enterprise architectures.
 
+* **[Authentik (24k+ ★)](https://github.com/goauthentik/authentik)** Patched a critical `OAuth2` decoding flaw to eliminate false-positive `application lockouts`, delivering a fix critical enough for an immediate `backport` to the stable enterprise release.
+
+* **[Better Auth (27k+ ★)](https://github.com/better-auth/better-auth)** Delivered core security patches that eliminated severe `OTP` bypass vulnerabilities and enforced strict `cryptographic validations` to prevent active `session hijacking`.
+
+* **[Cloud Custodian (5.9k+ ★)](https://github.com/cloud-custodian/cloud-custodian)** Fixed a critical `AWS IAM` monitoring blind spot, restoring accurate `AccessDenied` telemetry required for multi-account enterprise `compliance audits`.
+  
    *[My full open-source contribution log](https://github.com/Oluwatobi-Mustapha/oss-contributions)*
 
 ---
