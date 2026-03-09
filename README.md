@@ -29,18 +29,16 @@ I contribute security fixes to enterprise identity infrastructure and cloud gove
 Building a Just-in-Time access vending engine that reduces provisioning time from days to seconds while automatically generating artifacts required for SOC2 audits.
 
 * **[IAM Logic Fuzzer](https://github.com/Oluwatobi-Mustapha/iam-fuzzer)**  
-Security testing tool designed to surface hidden privilege escalation paths in IAM policies while helping validate compliance with CIS AWS benchmarks.
+Security testing tool designed to surface hidden privilege escalation paths in IAM policies while helping validate compliance with CIS AWS benchmarks
 
 ---
 
-## Infrastructure & Identity Stack
-
-### Cloud & Compute
+### Cloud & Infrastructure
 ![AWS Cloud](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### Engineering & Automation
+### Automation
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
@@ -53,7 +51,7 @@ Security testing tool designed to surface hidden privilege escalation paths in I
 
 ---
 
-## Certifications
+### Certifications
 
 ![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Oasis Security NHI Certified](https://img.shields.io/badge/Oasis_Security_NHI_Certified-0052CC?style=for-the-badge)
