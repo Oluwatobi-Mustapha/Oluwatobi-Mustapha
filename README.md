@@ -68,7 +68,7 @@ Security testing tool designed to surface hidden privilege escalation paths in I
 
 ---
 
-**Open to Cloud & IAM Security Engineering roles**
+![Open to Roles](https://img.shields.io/badge/Open_to-Cloud_%26_IAM_Security_Roles-0A66C2?style=for-the-badge&logo=icloud&logoColor=white)
 
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatobimustapha/)
 
