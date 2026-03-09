@@ -5,7 +5,6 @@
 > I design and secure IAM architectures across distributed environments, enforcing strict least privilege for both human and machine identities.  
 > Proud member of the **AWS Community Builders** and **The Identity Underground**.
 
----
 
 ## Open Source Contributions
 
