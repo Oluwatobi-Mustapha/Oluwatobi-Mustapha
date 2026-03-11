@@ -10,13 +10,15 @@
 
 I contribute security fixes to enterprise identity infrastructure and cloud governance frameworks.
 
-* **[Keycloak (33k+ ★)](https://github.com/keycloak/keycloak)** Hardened OIDC compliance to guarantee stable federation with upstream IdPs, and enhanced OID4VCI flows for secure, decentralized enterprise architectures.
+* **[Keycloak (33k+ ★)](https://github.com/keycloak/keycloak)** Strengthened authorization enforcement in fine-grained admin permissions by closing policy-evaluation gaps around protected group memberships, while also contributing fixes across OIDC and OID4VCI flows for secure enterprise identity systems.
 
-* **[Authentik (24k+ ★)](https://github.com/goauthentik/authentik)** Patched a critical OAuth2 decoding flaw to eliminate false-positive application lockouts, delivering a fix critical enough for an immediate backport to the stable enterprise release.
+* **[Home Assistant Core (85k+ ★)](https://github.com/home-assistant/core)** Improved authentication reliability in the Google Sheets integration by fixing OAuth error-handling paths, ensuring invalid credentials trigger secure re-authentication while transient provider failures retry safely.
 
-* **[Better Auth (27k+ ★)](https://github.com/better-auth/better-auth)** Delivered core security patches that eliminated severe OTP bypass vulnerabilities and enforced strict cryptographic validations to prevent active session hijacking.
+* **[Authentik (24k+ ★)](https://github.com/goauthentik/authentik)** Fixed an OAuth2 credential-decoding flaw that caused valid applications to fail authentication when secrets contained special characters, restoring reliable sign-in for automated workflows.
 
-* **[Cloud Custodian (5.9k+ ★)](https://github.com/cloud-custodian/cloud-custodian)** Fixed a critical AWS IAM monitoring blind spot, restoring accurate AccessDenied telemetry required for multi-account enterprise compliance audits.
+* **[Better Auth (27k+ ★)](https://github.com/better-auth/better-auth)** Delivered core security patches that closed OTP bypass paths and enforced stricter cryptographic validation to reduce session takeover risk.
+
+* **[Cloud Custodian (5.9k+ ★)](https://github.com/cloud-custodian/cloud-custodian)** Fixed an AWS IAM monitoring blind spot so legitimate `AccessDenied` events surface correctly during multi-account compliance and security audits.
   
    *[My full open-source contribution log](https://github.com/Oluwatobi-Mustapha/oss-contributions)*
 
