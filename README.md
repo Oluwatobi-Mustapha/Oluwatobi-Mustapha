@@ -55,8 +55,9 @@ Security testing tool designed to surface hidden privilege escalation paths in I
 ### Certifications
 
 ![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Oasis Security NHI Certified](https://img.shields.io/badge/Oasis_Security_NHI_Certified-0052CC?style=for-the-badge)
+
 ![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp_Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 
 ---
