@@ -1,6 +1,6 @@
 # Hi, I'm Oluwatobi Mustapha
 
-**Multi-Cloud IAM Security Engineer | Non-Human Identity Specialist | Core OSS Contributor**
+**Cloud IAM Security Engineer | Non-Human Identity | OSS Contributor**
 
 > I design and secure IAM architectures across distributed environments, enforcing strict least privilege for both human and machine identities.  
 > Proud member of the **AWS Community Builders** and **The Identity Underground**.
