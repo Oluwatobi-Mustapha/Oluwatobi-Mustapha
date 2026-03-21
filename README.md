@@ -65,15 +65,6 @@ I contribute security fixes to enterprise identity infrastructure and cloud gove
 
 ---
 
-### Technical Focus
-
-**Identity:** OIDC, SAML, SCIM  
-**Policy & IaC:** Policy-as-Code, Drift Detection  
-**Kubernetes:** RBAC, workload identity (mTLS)  
-**Secrets:** Vault-based lifecycle rotation
-
----
-
 ![Open to Roles](https://img.shields.io/badge/Open_to-Cloud_%26_IAM_Security_Roles-0A66C2?style=for-the-badge&logo=icloud&logoColor=white)
 
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatobimustapha/)
