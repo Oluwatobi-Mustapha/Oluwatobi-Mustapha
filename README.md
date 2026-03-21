@@ -57,11 +57,7 @@ I contribute security fixes to enterprise identity infrastructure and cloud gove
 
 ### Certifications
 
-![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp_Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp_Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 
 ---
 
