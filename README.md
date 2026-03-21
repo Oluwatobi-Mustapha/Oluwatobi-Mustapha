@@ -26,6 +26,8 @@ I contribute security fixes to enterprise identity infrastructure and cloud gove
 
 ## Projects
 
+* **[Identrail - Machine Identity Platform](https://github.com/Oluwatobi-Mustapha/identrail)**
+  
 * **[Boundary – AWS JIT Access Broker](https://github.com/Oluwatobi-Mustapha/boundary)**  
 Building a Just-in-Time access vending engine that reduces provisioning time from days to seconds while automatically generating artifacts required for SOC2 audits.
 
