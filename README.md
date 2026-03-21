@@ -69,6 +69,6 @@ I contribute security fixes to enterprise identity infrastructure and cloud gove
 
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatobimustapha/)
 
-Contact: **oluwatobimustapha539@gmail.com**
+My email: **oluwatobimustapha539@gmail.com**
 
 
