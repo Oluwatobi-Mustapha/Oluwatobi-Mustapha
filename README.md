@@ -2,7 +2,7 @@
 
 **Cloud IAM Security Engineer | Non-Human Identity | OSS Contributor**
 
-> I design and secure IAM architectures across distributed environments, enforcing strict least privilege for both human and machine identities.  
+> I design and secure IAM architectures across distributed environments, enforcing strict least privilege for both human and machine identities. 
 > Proud member of the **AWS Community Builders** and **The Identity Underground**.
 
 
@@ -55,11 +55,38 @@ I contribute security fixes to enterprise identity infrastructure and cloud gove
 
 ---
 
-### Certifications
+## Certifications
 
-![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp_Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
-
----
+<table>
+  <tr>
+    <td align="center" width="260">
+      <a href="https://www.credly.com/badges/1668fe1e-4fd2-4d4a-9390-f4b97c2dae2a">
+        <img src="https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/linkedin_thumb_image.png" alt="AWS Certified Security – Specialty badge" width="140"><br />
+        <strong>AWS Certified Security – Specialty</strong>
+      </a>
+    </td>
+    <td align="center" width="260">
+      <a href="https://www.credly.com/badges/b168f589-c1df-4f05-aeef-899c1c15b44c">
+        <img src="https://images.credly.com/images/0dc62494-dc94-469a-83af-e35309f27356/linkedin_thumb_blob" alt="HashiCorp Terraform Associate badge" width="140"><br />
+        <strong>HashiCorp Terraform Associate</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="260">
+      <a href="https://www.credly.com/badges/f463fd20-a83b-4ceb-a616-b88b2f1ab90d">
+        <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/linkedin_thumb_image.png" alt="AWS Solutions Architect – Associate badge" width="140"><br />
+        <strong>AWS Solutions Architect – Associate</strong>
+      </a>
+    </td>
+    <td align="center" width="260">
+      <a href="https://www.credly.com/badges/12c184d5-e336-4ef5-b931-3b088c76460a">
+        <img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/linkedin_thumb_blob" alt="CompTIA Security+ badge" width="140"><br />
+        <strong>CompTIA Security+</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 **I'm Open to Cloud and IAM Security Role**
 
