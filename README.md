@@ -32,21 +32,22 @@ I contribute security fixes to enterprise identity infrastructure and cloud gove
 
 ## Core Stack
 
-**Cloud & Infrastructure**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+**Infrastructure**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square)
 
-**Engineering & Automation**  
+**Engineering**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
-**Identity & Access**  
-![AWS Cedar](https://img.shields.io/badge/AWS_Cedar-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure Entra ID](https://img.shields.io/badge/Azure_Entra_ID-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
-![SPIFFE](https://img.shields.io/badge/SPIFFE-00C7B7?style=flat-square&logo=spiffe&logoColor=white)
-![HashiCorp Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white)
+**Identity**  
+![Cedar](https://img.shields.io/badge/Cedar-232F3E?style=flat-square)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square)
+![SPIFFE](https://img.shields.io/badge/SPIFFE-00C7B7?style=flat-square)
+![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=flat-square&logo=vault&logoColor=white)
+
 
 ---
 
