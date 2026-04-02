@@ -1,4 +1,4 @@
-# Hi, I'm Oluwatobi Mustapha
+# Hi, I'm Oluwatobi 
 
 **Cloud IAM Security Engineer | Non-Human Identity | OSS Contributor**
 
