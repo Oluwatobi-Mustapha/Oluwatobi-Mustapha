@@ -16,6 +16,7 @@ I contribute security fixes to enterprise identity infrastructure and cloud gove
 - **[Home Assistant Core](https://github.com/home-assistant/core)** Improved Google Sheets authentication reliability by fixing OAuth error handling so invalid credentials trigger secure re-authentication while transient provider failures retry safely.
 - **[Authentik](https://github.com/goauthentik/authentik)** Fixed an OAuth2 credential-decoding flaw that broke authentication when secrets contained special characters, restoring reliable sign-in for automated workflows.
 - **[Better Auth](https://github.com/better-auth/better-auth)** Delivered security patches that closed OTP bypass paths and tightened cryptographic validation to reduce session takeover risk.
+- **[Zitadel](https://github.com/zitadel/zitadel)** Fix a gRPC Remote Procedure Call error.
 - **[Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)** Fixed an AWS IAM monitoring blind spot so legitimate `AccessDenied` events surface correctly during multi-account compliance and security audits.
 
 [My full open-source contribution log](https://github.com/Oluwatobi-Mustapha/oss-contributions)
