@@ -25,8 +25,8 @@ I contribute security fixes to enterprise identity infrastructure and cloud gove
 
 ## Projects
 
-- **[Boundary - AWS JIT Access Broker](https://github.com/Oluwatobi-Mustapha/boundary)** A just-in-time access vending engine that reduces provisioning time from days to seconds while generating artifacts needed for SOC 2 audit evidence.
 - **[Identrail - Machine Identity Security](https://github.com/Oluwatobi-Mustapha/identrail)** A machine identity security platform for cloud and Kubernetes environments focused on discovering workload identities, analyzing risky access paths, and reducing identity exposure.
+- **[Boundary - AWS JIT Access Broker](https://github.com/Oluwatobi-Mustapha/boundary)** A just-in-time access vending engine that reduces provisioning time from days to seconds while generating artifacts needed for SOC 2 audit evidence.
 - **[IAM Logic Fuzzer](https://github.com/Oluwatobi-Mustapha/iam-fuzzer)** A security testing tool that surfaces hidden privilege escalation paths in IAM policies and helps validate controls against CIS AWS benchmarks.
 
 ---
