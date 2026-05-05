@@ -93,6 +93,6 @@ I contribute security fixes to enterprise identity infrastructure and cloud gove
 
 Cloud IAM and Security Engineering roles.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatobimustapha/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatobimustapha/)
 
 Email: [oluwatobimustapha539@gmail.com](mailto:oluwatobimustapha539@gmail.com)
