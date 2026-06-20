@@ -1,8 +1,8 @@
 # Hi, I'm Oluwatobi. 
 
-**Cloud IAM Security Engineer | Non-Human Identity | OSS Contributor**
+**Security Engineer | Non-Human Identity | OSS Contributor**
 
-> I build and secure IAM systems across cloud and distributed environments, with a focus on least-privilege architecture for both human and machine identities.
+> I build and secure systems across cloud and distributed environments, with a focus on least-privilege architecture for both human and machine identities.
 
 Member of the **AWS Community Builders** and **The Identity Underground**.
 
