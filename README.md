@@ -91,7 +91,7 @@ I contribute security fixes to enterprise identity infrastructure and cloud gove
 
 ## Open to Work
 
-Cloud IAM and Security Engineering roles.
+Security Engineering related roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-326CE5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/oluwatobimustapha/)
 
