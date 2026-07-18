@@ -2,8 +2,8 @@
 
 **Security Engineer | Non-Human Identity | OSS Contributor**
 
-> I build and secure systems across cloud and distributed environments, with a focus on least-privilege architecture for both human and machine identities.
-
+> I builds and secures cloud and distributed systems, with a focus on identity security, least-privilege architecture, threat detection, and incident response.
+> 
 Member of the **AWS Community Builders** and **The Identity Underground**.
 
 ---
