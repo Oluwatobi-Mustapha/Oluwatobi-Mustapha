@@ -18,7 +18,7 @@ Member of the **AWS Community Builders** and **The Identity Underground**.
 
 ## Open Source Contributions
 
-I contribute security fixes to enterprise identity infrastructure and cloud governance projects.
+I contribute security fixes to enterprise infrastructure and cloud governance projects.
 
 - **[Keycloak](https://github.com/keycloak/keycloak)** Improved fine-grained admin permissions by closing policy-evaluation gaps around protected group memberships, and contributed fixes across OIDC and OID4VCI flows.
 - **[Home Assistant Core](https://github.com/home-assistant/core)** Improved Google Sheets authentication reliability by fixing OAuth error handling so invalid credentials trigger secure re-authentication while transient provider failures retry safely.
@@ -27,7 +27,7 @@ I contribute security fixes to enterprise identity infrastructure and cloud gove
 - **[Zitadel](https://github.com/zitadel/zitadel)** Fix a gRPC Remote Procedure Call error.
 - **[Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)** Fixed an AWS IAM monitoring blind spot so legitimate `AccessDenied` events surface correctly during multi-account compliance and security audits.
 
-[My full open-source contribution log](https://github.com/Oluwatobi-Mustapha/oss-contributions)
+   [My full open-source contribution log](https://github.com/Oluwatobi-Mustapha/oss-contributions)
 
 
 ---
