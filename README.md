@@ -2,7 +2,7 @@
 
 **Security Engineer | Non-Human Identity | OSS Contributor**
 
-> I builds and secures cloud and distributed systems, with a focus on identity security, least-privilege architecture, threat detection, and incident response.
+> I build and secure cloud and distributed systems, with a focus on identity security, least-privilege architecture, threat detection, and incident response.
 > 
 Member of the **AWS Community Builders** and **The Identity Underground**.
 
@@ -18,37 +18,15 @@ Member of the **AWS Community Builders** and **The Identity Underground**.
 
 ## Open Source Contributions
 
-I contribute security fixes to enterprise infrastructure and cloud governance projects.
+I contribute security fixes to enterprise infrastructure and cloud governance projects.  [My full open-source contribution log](https://github.com/Oluwatobi-Mustapha/oss-contributions)
+
 
 - **[Keycloak](https://github.com/keycloak/keycloak)** Improved fine-grained admin permissions by closing policy-evaluation gaps around protected group memberships, and contributed fixes across OIDC and OID4VCI flows.
 - **[Home Assistant Core](https://github.com/home-assistant/core)** Improved Google Sheets authentication reliability by fixing OAuth error handling so invalid credentials trigger secure re-authentication while transient provider failures retry safely.
 - **[Authentik](https://github.com/goauthentik/authentik)** Fixed an OAuth2 credential-decoding flaw that broke authentication when secrets contained special characters, restoring reliable sign-in for automated workflows.
 - **[Better Auth](https://github.com/better-auth/better-auth)** Delivered security patches that closed OTP bypass paths and tightened cryptographic validation to reduce session takeover risk.
-- **[Zitadel](https://github.com/zitadel/zitadel)** Fix a gRPC Remote Procedure Call error.
+- **[Zitadel](https://github.com/zitadel/zitadel)** Fixed native gRPC status-error propagation across service boundaries.
 - **[Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)** Fixed an AWS IAM monitoring blind spot so legitimate `AccessDenied` events surface correctly during multi-account compliance and security audits.
-
-   [My full open-source contribution log](https://github.com/Oluwatobi-Mustapha/oss-contributions)
-
-
----
-
-## Core Stack
-
-**Infrastructure**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square)
-
-**Engineering**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-
-**Identity**  
-![Cedar](https://img.shields.io/badge/Cedar-232F3E?style=flat-square)
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square)
-![SPIFFE](https://img.shields.io/badge/SPIFFE-00C7B7?style=flat-square)
-![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=flat-square&logo=vault&logoColor=white)
 
 
 ---
