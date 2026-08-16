@@ -69,7 +69,7 @@ I contribute security fixes to enterprise infrastructure and cloud governance pr
 
 ## Open to Work
 
-Security Engineering related roles.
+I’m open to cloud security, identity security, and security engineering roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-326CE5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/oluwatobimustapha/)
 
