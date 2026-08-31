@@ -19,7 +19,7 @@ Member of the **AWS Community Builders** and **The Identity Underground**.
 ---
 ## Open Source Contributions
 
-I contribute security fixes to enterprise infrastructure, identity, and cloud governance projects. [My full open-source contribution log](https://github.com/Oluwatobi-Mustapha/oss-contributions).
+I contribute security fixes to enterprise infrastructure, identity, & cloud governance projects. [My full open-source contribution log](https://github.com/Oluwatobi-Mustapha/oss-contributions).
 
 - **[HashiCorp Terraform](https://github.com/hashicorp/terraform-provider-aws)**: Fixed web-identity credential precedence in the AWS provider, preventing valid configured tokens from being rejected when environment credentials are also present.
   
