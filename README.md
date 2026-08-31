@@ -13,6 +13,8 @@ Member of the **AWS Community Builders** and **The Identity Underground**.
 - **[Identrail - Machine Identity Security](https://github.com/identrail/identrail)** A machine identity security platform for AWS, GitHub/OIDC, and Kubernetes, built to find risky trust paths, repository exposure, and authorization gaps before they become incidents.
   
 - **[Boundary - AWS JIT Access Broker](https://github.com/Oluwatobi-Mustapha/boundary)** A just-in-time access vending engine that reduces provisioning time from days to seconds while generating artifacts needed for SOC 2 audit evidence.
+
+- **[AWS Cloud Incident Response Lab](https://medium.com/@oluwatobi-mustapha/aws-cloud-incident-response-lab-simulating-a-full-scale-attack-and-investigation-c3f4f14af61c)** Simulates a full-scale AWS attack and investigation, showing how responders trace identity abuse, contain the blast radius, and turn evidence into repeatable recovery actions.
   
 - **[IAM Logic Fuzzer](https://github.com/Oluwatobi-Mustapha/iam-fuzzer)** A security testing tool that surfaces hidden privilege escalation paths in IAM policies and helps validate controls against CIS AWS benchmarks.
 
