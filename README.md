@@ -18,6 +18,14 @@ Member of the **AWS Community Builders** and **The Identity Underground**.
   
 - **[IAM Logic Fuzzer](https://github.com/Oluwatobi-Mustapha/iam-fuzzer)** A security testing tool that surfaces hidden privilege escalation paths in IAM policies and helps validate controls against CIS AWS benchmarks.
 
+- **[EDR Simulation](https://medium.com/@oluwatobi-mustapha/endpoint-detection-and-response-edr-simulation-3b74d40e33f1)** Validated endpoint prevention and investigation in a controlled Windows lab by triggering the EICAR test, reviewing quarantine telemetry, and mapping the event to MITRE ATT&CK
+
+- **[Network Traffic Analysis](https://medium.com/@oluwatobi-mustapha/network-traffic-analysis-with-wireshark-d79276d68612)** Analyzed a malware-infected PCAP to trace NetSupportRAT command-and-control traffic, extract indicators, identify the compromised user, and connect the activity to its initial access path
+
+- **[Incident Response Investigation](https://medium.com/@oluwatobi-mustapha/incident-response-75efa6a460e9)** Reconstructed a suspected Qakbot intrusion by correlating PCAP evidence, VirusTotal intelligence, PowerShell file hashes, and Splunk telemetry to confirm exfiltration and trace the attack path.
+
+- **[AWS Honeypot](https://medium.com/@oluwatobi-mustapha/honeypot-deployment-on-aws-4ec0499b73d0)** Deployed an internet-facing AWS honeypot and used Kibana telemetry to observe brute-force activity, attacker origins, and real-world probing against exposed SSH and FTP services.
+
 ---
 ## Open Source Contributions
 
