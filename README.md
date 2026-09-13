@@ -24,7 +24,6 @@ Member of the **AWS Community Builders** and **The Identity Underground**.
 
 - **[Incident Response Investigation](https://medium.com/@oluwatobi-mustapha/incident-response-75efa6a460e9)** Reconstructed a suspected Qakbot intrusion by correlating PCAP evidence, VirusTotal intelligence, PowerShell file hashes, and Splunk telemetry to confirm exfiltration and trace the attack path.
 
-- **[AWS Honeypot](https://medium.com/@oluwatobi-mustapha/honeypot-deployment-on-aws-4ec0499b73d0)** Deployed an internet-facing AWS honeypot and used Kibana telemetry to observe brute-force activity, attacker origins, and real-world probing against exposed SSH and FTP services.
 
 ---
 ## Open Source Contributions
@@ -45,7 +44,6 @@ I contribute security fixes to enterprise infrastructure, identity, & cloud gove
   
 - **[ZITADEL](https://github.com/zitadel/zitadel)**: Corrected unauthenticated v1 gateway responses to return `401`, preserving reliable client and security semantics in identity APIs.
   
-- **[LeapStack](https://github.com/bfateen/leapstacks2)**: Security-reviewed an AWS launchpad for AI agents, focusing on the IAM, infrastructure, observability, and cost controls needed to move prototypes toward production.
 
 ---
 
@@ -93,7 +91,8 @@ Blog: https://medium.com/@oluwatobi-mustapha
 
 website: https://oluwatobimustapha.vercel.app
 
+LinkedIn: https://www.linkedin.com/in/oluwatobimustapha
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-326CE5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/oluwatobimustapha/)
+
