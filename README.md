@@ -91,9 +91,9 @@ I contribute security fixes to enterprise infrastructure, identity, & cloud gove
 
 I’m open to cloud security, identity security, and security engineering roles.
 
-Blog: https://medium.com/@oluwatobi-mustapha
+website: https://oluwatobimustapha.com
 
-website: https://oluwatobimustapha.vercel.app
+Blog: https://medium.com/@oluwatobi-mustapha
 
 LinkedIn: https://www.linkedin.com/in/oluwatobimustapha
 
